@@ -374,6 +374,36 @@ p {
 
 }
 
+@media only screen and (max-width : 767px){
+  .portfolio_bkg_top{
+    background-image: url(../img/portfolio-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #325DFF;
+    font-style: oblique;
+  }
+
+  .portfolio_bkg_middle{
+    background-image: url(../img/portfolio-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #325DFF;
+    font-style: oblique;
+  }
+
+  .portfolio_bkg_bottom{
+    background-image: url(../img/portfolio-3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #325DFF;
+    font-style: oblique;
+  }
+
+
+}
+
+
+
 /* Footer */
 
 
