@@ -72,6 +72,10 @@ p {
   max-width: 120px;
 }
 
+.fa-solid{
+  color: #fff;
+}
+
 .navbar-nav > li > a{
   color: #fff;
   text-shadow: none;
